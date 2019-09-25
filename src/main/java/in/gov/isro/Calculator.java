@@ -10,7 +10,7 @@ public class Calculator {
 		return x*y;
 	}
 	public int subtract(int i, int j) {
-		int z=0;
+		
 		return i - j;
 	}
 
