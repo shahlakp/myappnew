@@ -16,6 +16,6 @@ public class Calculator {
 
     public int division(int i, int j) {
 		
-		return i/j
+		return i/j;
 	}
 }
